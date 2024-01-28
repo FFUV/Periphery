@@ -2,7 +2,6 @@
 
 This project is a web application that generates the value of Pi using a Monte Carlo method and presents it in an aesthetically pleasing way.
 
-![Pi Generator Screenshot](screenshot.png)
 
 ## Technologies Used
 
