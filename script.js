@@ -13,3 +13,4 @@ function generatePi() {
             piValueElement.innerHTML = "Error occurred.";
         });
 }
+console.log("YOLO!");
